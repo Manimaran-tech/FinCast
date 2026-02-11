@@ -51,4 +51,9 @@ FinCast is an AI-powered stock market platform that provides:
 
 ## Team
 
+-Manimaran K - Team Leader
+-Navin S
+-Pavan K
+-Nitin T
+
 Built with for the AI for Bharat hackathon.
