@@ -1,6 +1,6 @@
 # FinCast — AI-Powered Stock Market Platform
 
-## 🏆 Hackathon Submission: AI for Bharat
+## Hackathon Submission: AI for Bharat
 
 This repository contains the **requirements** and **design** documentation for **FinCast**, an AI-powered stock market platform submitted for the **AI for Bharat** hackathon.
 
@@ -8,7 +8,7 @@ This repository contains the **requirements** and **design** documentation for *
 
 ## 🚀 Live MVP
 
-👉 **[https://fincast.web.app/](https://fincast.web.app/)**
+ **[https://fincast.web.app/](https://fincast.web.app/)**
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains the **requirements** and **design** documentation for *
 
 ---
 
-## 💡 What is FinCast?
+##  What is FinCast?
 
 FinCast is an AI-powered stock market platform that provides:
 
@@ -34,7 +34,7 @@ FinCast is an AI-powered stock market platform that provides:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -51,4 +51,4 @@ FinCast is an AI-powered stock market platform that provides:
 
 ## �‍� Team
 
-Built with ❤️ for the **AI for Bharat** hackathon.
+Built with for the **AI for Bharat** hackathon.
