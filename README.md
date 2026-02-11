@@ -21,16 +21,23 @@ This repository contains the requirements and design documentation for FinCast, 
 
 ---
 
-##  What is FinCast?
+## What is FinCast?
 
-FinCast is an AI-powered stock market platform that provides:
+**FinCast** is an AI-powered stock market intelligence platform designed to help investors make data-driven decisions through machine learning, real-time analytics, and automated insights.
 
-- AI Stock Recommendations — LSTM + XGBoost ensemble model with FinBERT sentiment analysis
-- Real-Time Market Data — Live charts with technical indicators (RSI, MACD, SMA)
-- ML Price Predictions — Predicted closing price with confidence scores and risk analysis
-- Smart Alerts — FCM push notifications with auto-close position based on ML predictions
-- Portfolio Management — Track holdings, P&L, sector allocation with Angel One integration
-- News Sentiment — FinBERT-powered sentiment analysis on financial news
+### Key Features
+
+- **AI Stock Recommendations** — LSTM + XGBoost ensemble model enhanced with FinBERT sentiment analysis to identify high-potential stocks.
+
+- **Real-Time Market Data** — Live charts integrated with technical indicators such as RSI, MACD, and SMA for advanced market analysis.
+
+- **ML Price Predictions** — Forecasted closing prices with confidence scores and built-in risk assessment.
+
+- **Smart Alerts** — FCM push notifications with automated position-closing suggestions based on ML predictions.
+
+- **Portfolio Management** — Track holdings, profit & loss, and sector allocation with Angel One integration.
+
+- **News Sentiment Analysis** — FinBERT-powered sentiment evaluation of financial news to gauge market mood.
 
 ---
 
