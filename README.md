@@ -6,13 +6,13 @@ This repository contains the **requirements** and **design** documentation for *
 
 ---
 
-## 🚀 Live MVP
+##  Live MVP
 
  **[https://fincast.web.app/](https://fincast.web.app/)**
 
 ---
 
-## 📄 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -25,12 +25,12 @@ This repository contains the **requirements** and **design** documentation for *
 
 FinCast is an AI-powered stock market platform that provides:
 
-- **🤖 AI Stock Recommendations** — LSTM + XGBoost ensemble model with FinBERT sentiment analysis
-- **📈 Real-Time Market Data** — Live charts with technical indicators (RSI, MACD, SMA)
-- **🔮 ML Price Predictions** — Predicted closing price with confidence scores and risk analysis
-- **🔔 Smart Alerts** — FCM push notifications with auto-close position based on ML predictions
-- **💼 Portfolio Management** — Track holdings, P&L, sector allocation with Angel One integration
-- **📰 News Sentiment** — FinBERT-powered sentiment analysis on financial news
+- ** AI Stock Recommendations** — LSTM + XGBoost ensemble model with FinBERT sentiment analysis
+- ** Real-Time Market Data** — Live charts with technical indicators (RSI, MACD, SMA)
+- ** ML Price Predictions** — Predicted closing price with confidence scores and risk analysis
+- ** Smart Alerts** — FCM push notifications with auto-close position based on ML predictions
+- ** Portfolio Management** — Track holdings, P&L, sector allocation with Angel One integration
+- ** News Sentiment** — FinBERT-powered sentiment analysis on financial news
 
 ---
 
