@@ -2,7 +2,7 @@
 
 ## Hackathon Submission: AI for Bharat
 
-This repository contains the **requirements** and **design** documentation for **FinCast**, an AI-powered stock market platform submitted for the **AI for Bharat** hackathon.
+This repository contains the requirements and design documentation for FinCast, an AI-powered stock market platform submitted for the AI for Bharat hackathon.
 
 ---
 
@@ -25,12 +25,12 @@ This repository contains the **requirements** and **design** documentation for *
 
 FinCast is an AI-powered stock market platform that provides:
 
-- ** AI Stock Recommendations** — LSTM + XGBoost ensemble model with FinBERT sentiment analysis
-- ** Real-Time Market Data** — Live charts with technical indicators (RSI, MACD, SMA)
-- ** ML Price Predictions** — Predicted closing price with confidence scores and risk analysis
-- ** Smart Alerts** — FCM push notifications with auto-close position based on ML predictions
-- ** Portfolio Management** — Track holdings, P&L, sector allocation with Angel One integration
-- ** News Sentiment** — FinBERT-powered sentiment analysis on financial news
+- AI Stock Recommendations — LSTM + XGBoost ensemble model with FinBERT sentiment analysis
+- Real-Time Market Data — Live charts with technical indicators (RSI, MACD, SMA)
+- ML Price Predictions — Predicted closing price with confidence scores and risk analysis
+- Smart Alerts — FCM push notifications with auto-close position based on ML predictions
+- Portfolio Management — Track holdings, P&L, sector allocation with Angel One integration
+- News Sentiment — FinBERT-powered sentiment analysis on financial news
 
 ---
 
@@ -51,4 +51,4 @@ FinCast is an AI-powered stock market platform that provides:
 
 ## �‍� Team
 
-Built with for the **AI for Bharat** hackathon.
+Built with for the AI for Bharat hackathon.
