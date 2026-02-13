@@ -1,6 +1,6 @@
 # Design Document — Stock Market AI Platform
 
-🚀 **Live MVP:** [https://fincast.web.app/](https://fincast.web.app/)
+🚀 **Live MVP:** [https://fincast.web.app/](https://fincast.web.app/) build using Kiro
 
 ## System Architecture
 
