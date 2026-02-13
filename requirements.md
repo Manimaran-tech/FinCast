@@ -1,6 +1,6 @@
 # Requirements Document — Stock Market AI Platform
 
-🚀 **Live MVP:** [https://fincast.web.app/](https://fincast.web.app/)
+🚀 **Live MVP:** [https://fincast.web.app/](https://fincast.web.app/) build using Kiro
 
 ## Project Overview
 An AI-powered stock market platform that provides intelligent stock recommendations, real-time market data, ML-based predictions, sentiment analysis, and automated portfolio management with risk alerts.
