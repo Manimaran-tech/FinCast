@@ -6,7 +6,7 @@ This repository contains the requirements and design documentation for FinCast, 
 
 ---
 
-##  Live MVP
+##  Live MVP build using **Kiro**
 
  **[https://fincast.web.app/](https://fincast.web.app/)**
 
